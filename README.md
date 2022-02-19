@@ -1,5 +1,12 @@
 # Getting Started with Create React App
 
+
+
+*----------------KINDLY DOWNLOAD THE REQUIRED MODULES(node modules) TO RUN THE APPLICATION-------------------------------------------*
+*----------------LOCALHOST SERVER 3000 or 3002-------------------------------------------------*
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
